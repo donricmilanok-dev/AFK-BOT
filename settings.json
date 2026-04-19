@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Shadowingsmp.exaroton.me",
-    "port": 36455,
+    "ip": "Shadowingsmp.aternos.me",
+    "port": 25431,
     "version": "1.21.1"
   },
   "position": {
